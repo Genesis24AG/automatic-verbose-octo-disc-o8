@@ -4,7 +4,7 @@ html.env | @genesis24AG
 Free for personal and commercial use under the CCA 3.0 license 
 
 
-[html_link}
+[https://genesis24ag.github.io/automatic-verbose-octo-disc-o8/]
 
 This is Constelations, a short little one-pager with customized architecture and cleaned, randomised 3D visual effects. 
 Simple, fully responsive, and easy to navigate through pages. 
